@@ -3,4 +3,4 @@
 	url = https://github.com/Juangranda3424/API-BANCO-PICHINCHA.git
 [submodule "integrative_project_U3_DB"]
 	path = integrative_project_U3_DB
-	url = git@github.com:IMarcusDev/integrative_project_U3_DB.git
+	url = https://github.com/IMarcusDev/integrative_project_U3_DB.git
